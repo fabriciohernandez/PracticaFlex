@@ -1,0 +1,35 @@
+{
+    margin:0px; padding: 0px;
+}
+
+html,body {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: rgb(56, 106, 150);
+}
+
+header{
+    background-color: rgb(132, 209, 7);  
+    flex: 1;
+}
+
+main{
+    background-color: rgb(162, 180, 132);  
+    flex: 2;
+}
+
+
+footer{
+    background-color: rgb(1, 2, 2);  
+    flex: 1;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
