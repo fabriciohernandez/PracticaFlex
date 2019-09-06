@@ -1,8 +1,8 @@
-#Practica Flex
+# Practica FLEX
 
 EJercicios Flex
 
-#Colaboradores
+# Colaboradores
 
 -Fabricio Hernandez
 -Andrea Zaldaña
